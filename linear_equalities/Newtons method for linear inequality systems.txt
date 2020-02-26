@@ -1,0 +1,9 @@
+@article{Pinar1998Newton,
+  title={Newton's method for linear inequality systems},
+  author={Pinar, Mustafa Ç.},
+  journal={European Journal of Operational Research},
+  volume={107},
+  number={3},
+  pages={710-719},
+  year={1998},
+}
