@@ -1,0 +1,4 @@
+@article{SmithNumerical,
+  title={Numerical Optimization  by J. Nocedal; S. J. Wright},
+  author={Smith, D. K.},
+}
