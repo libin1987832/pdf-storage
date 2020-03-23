@@ -1,0 +1,10 @@
+@article{kim2007interior,
+  title={An interior-point method for large-scale $$\backslash$ell\_1 $-regularized least squares},
+  author={Kim, Seung-Jean and Koh, Kwangmoo and Lustig, Michael and Boyd, Stephen and Gorinevsky, Dimitry},
+  journal={IEEE journal of selected topics in signal processing},
+  volume={1},
+  number={4},
+  pages={606--617},
+  year={2007},
+  publisher={IEEE}
+}

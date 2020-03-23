@@ -1,0 +1,10 @@
+@article{morikuni2013inner,
+  title={Inner-iteration Krylov subspace methods for least squares problems},
+  author={Morikuni, Keiichi and Hayami, Ken},
+  journal={SIAM Journal on Matrix Analysis and Applications},
+  volume={34},
+  number={1},
+  pages={1--22},
+  year={2013},
+  publisher={SIAM}
+}

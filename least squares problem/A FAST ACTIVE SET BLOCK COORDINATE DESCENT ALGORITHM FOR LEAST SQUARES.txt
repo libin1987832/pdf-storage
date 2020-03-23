@@ -1,0 +1,10 @@
+@article{de2016fast,
+  title={A Fast Active Set Block Coordinate Descent Algorithm for $\backslash$ell\_1-Regularized Least Squares},
+  author={De Santis, Marianna and Lucidi, Stefano and Rinaldi, Francesco},
+  journal={SIAM Journal on Optimization},
+  volume={26},
+  number={1},
+  pages={781--809},
+  year={2016},
+  publisher={SIAM}
+}

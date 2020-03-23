@@ -1,0 +1,10 @@
+@article{facchinei1995quadratically,
+  title={Quadratically and superlinearly convergent algorithms for the solution of inequality constrained minimization problems},
+  author={Facchinei, F and Lucidi, S},
+  journal={Journal of Optimization Theory and Applications},
+  volume={85},
+  number={2},
+  pages={265--289},
+  year={1995},
+  publisher={Springer}
+}

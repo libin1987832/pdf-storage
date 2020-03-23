@@ -1,0 +1,10 @@
+@article{dax1991computational,
+  title={On computational aspects of bounded linear least squares problems},
+  author={Dax, Achiya},
+  journal={ACM Transactions on Mathematical Software (TOMS)},
+  volume={17},
+  number={1},
+  pages={64--73},
+  year={1991},
+  publisher={ACM New York, NY, USA}
+}

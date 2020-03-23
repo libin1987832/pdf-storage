@@ -1,0 +1,10 @@
+@article{paige1982lsqr,
+  title={LSQR: An algorithm for sparse linear equations and sparse least squares},
+  author={Paige, Christopher C and Saunders, Michael A},
+  journal={ACM Transactions on Mathematical Software (TOMS)},
+  volume={8},
+  number={1},
+  pages={43--71},
+  year={1982},
+  publisher={ACM New York, NY, USA}
+}

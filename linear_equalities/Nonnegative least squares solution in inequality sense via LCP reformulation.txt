@@ -1,0 +1,9 @@
+@article{salahi2014nonnegative,
+  title={Nonnegative least squares solution in inequality sense via LCP reformulation},
+  author={Salahi, Maziar and Taati, Akram},
+  journal={Advanced Modeling and Optimization},
+  volume={16},
+  number={2},
+  pages={285--294},
+  year={2014}
+}

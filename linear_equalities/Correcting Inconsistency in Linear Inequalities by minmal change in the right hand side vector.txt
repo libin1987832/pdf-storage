@@ -1,0 +1,9 @@
+@article{ketabchi2009correcting,
+  title={Correcting Inconsistency in Linear Inequalities by Minimal Change in the Right Hand Side Vector.},
+  author={Ketabchi, Saeed and Salahi, Maziar},
+  journal={The Computer Science Journal of Moldova},
+  volume={17},
+  number={2},
+  pages={179--192},
+  year={2009}
+}

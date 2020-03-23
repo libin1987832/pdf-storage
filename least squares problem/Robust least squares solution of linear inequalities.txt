@@ -1,0 +1,10 @@
+@article{salahi2010robust,
+  title={Robust least squares solution of linear inequalities},
+  author={Salahi, Maziar},
+  journal={Applied mathematics letters},
+  volume={23},
+  number={5},
+  pages={605--608},
+  year={2010},
+  publisher={Elsevier}
+}

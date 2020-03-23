@@ -1,0 +1,9 @@
+@article{popa2014han,
+  title={Han-type algorithms for inconsistent systems of linear inequalities--A unified approach},
+  author={Popa, C and {\c{S}}erban, C},
+  journal={Applied Mathematics and Computation},
+  volume={246},
+  pages={247--256},
+  year={2014},
+  publisher={Elsevier}
+}

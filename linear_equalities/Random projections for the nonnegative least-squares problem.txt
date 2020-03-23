@@ -1,0 +1,10 @@
+@article{boutsidis2009random,
+  title={Random projections for the nonnegative least-squares problem},
+  author={Boutsidis, Christos and Drineas, Petros},
+  journal={Linear algebra and its applications},
+  volume={431},
+  number={5-7},
+  pages={760--771},
+  year={2009},
+  publisher={Elsevier}
+}

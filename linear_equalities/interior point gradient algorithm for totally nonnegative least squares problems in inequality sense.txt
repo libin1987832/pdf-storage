@@ -1,0 +1,10 @@
+@article{salahi2014interior,
+  title={Interior point gradient algorithm for totally nonnegative least-squares problems in inequality sense},
+  author={Salahi, Maziar and Taati, Akram},
+  journal={International Journal of Computer Mathematics},
+  volume={91},
+  number={7},
+  pages={1593--1600},
+  year={2014},
+  publisher={Taylor \& Francis}
+}

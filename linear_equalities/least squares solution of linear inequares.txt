@@ -1,0 +1,6 @@
+@techreport{han1980least,
+  title={Least-Squares Solution of Linear Inequalities.},
+  author={Han, S-P},
+  year={1980},
+  institution={WISCONSIN UNIV-MADISON MATHEMATICS RESEARCH CENTER}
+}
