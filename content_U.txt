@@ -1,0 +1,436 @@
+卷 Ubuntu 14.0 的文件夹 PATH 列表
+卷序列号为 B4FE-5315
+K:.
+│  contentU.txt
+│  autopaper.bat
+│  content_U.txt
+│  
+├─computer
+│      a system for vocabulary sign search.pdf
+│      Computation Beyond the Turing Limit.pdf
+│      DTW.pdf
+│      DynamicFusion.pdf
+│      Ef?cientEstimationofWordRepresentations.pdf
+│      Hadoop权威指南.大数据的存储与分析.第4版.修订版&升级版@www.java1234.com.pdf
+│      kinect funsion real-time dense suface maping and tracking.pdf
+│      Little Kernel Boot Loader Overview .pdf
+│      On the Application of the Spectral Projected Gradient Method in Image Segmentation.pdf
+│      poisson surface reconstrution.pdf
+│      Pose Estimation of a camera using Newton optimization.pdf
+│      re aligned end to end sequence modelling with deep recurrent cnn-hmms.pdf
+│      Screened Poisson Surface Reconstruction.pdf
+│      sp flash tool error .pdf
+│      structure from motion using reconstrue less resisection.pdf
+│      TensorFlow Debugger.pdf
+│      tesorflow_win_modify.txt
+│      the gesture recognition toolkit.pdf
+│      User’s Guide for SuiteSparseQR, a multifrontal multithreaded sparse QR factorization package .pdf
+│      一种具有实时性的SIFT特征提取算法.pdf
+│      
+└─math
+    │  A New Jacobian-Like Method for the Polyhedral.pdf
+    │  MAXIMIN ESTIMATION FOR GAUSSIA GRAPHICA.pdf
+    │  quadratically and superlinearly convergent algorithms for the solution of inequa constrained minimization problems.pdf
+    │  
+    ├─algorithm for generalize problem
+    │  │  A comparative study of dual active set and primal dual interior point method.pdf
+    │  │  A COMPARISON OF A MOREAU–YOSIDA-BASED ACTIVE SET and interior point methods.pdf
+    │  │  A Filter Active-Set Algorithm for BallSphere Constrained Optimization Problem.pdf
+    │  │  A TRUNCATED NEWTON ALGORITHM FOR LARGE SCALE BOX CONSTRAINED OPTIMIZATION.pdf
+    │  │  An affine scaling method for optimization problems with polyhedral constraints.pdf
+    │  │  Parallel gradient distribution in unconstrained Optimization.pdf.pdf
+    │  │  quadratically and superlinearly convergent algorithms for the solution of inequality constrained minimization problem.pdf
+    │  │  The effect of diagonal scaling on projected gradient methods for bound constrained quadratic programming problems.pdf
+    │  │  
+    │  ├─active set
+    │  │  │  A Filter Active-Set Algorithm for BallSphere Constrained Optimization Problem.pdf
+    │  │  │  A new active set algorithm for box constrained optimization.pdf
+    │  │  │  A Second-Order Method for Convex for Convex ?1-Regularized Optimization with Active Set Prediction.pdf
+    │  │  │  Active Set Method for Second-Order Conic-Constrained.pdf
+    │  │  │  ACTIVE SETS, NONSMOOTHNESS, AND SENSITIVITY.pdf
+    │  │  │  ACTIVE-SET METHODS FOR CONVEX QUADRATIC programmming.pdf
+    │  │  │  Active-set methods for numerical optimization Selected applications and needs.pdf
+    │  │  │  An accurate active set conjugate gradient algorithm with project search for bound constrained optimization.pdf
+    │  │  │  An active set algorithm for nonlinear optimization with polyhedral constraints.pdf
+    │  │  │  AN ACTIVE SET ALGORITHM FOR NONLINEAR OPTIMIZATION.pdf
+    │  │  │  An active set algorithm to estimate parameters in generalized linear.pdf
+    │  │  │  An active set algorithm to estimate parameters in generalized linear.pdf.pdf
+    │  │  │  An lterative Row-Action Method for Interval Convex Programming.pdf
+    │  │  │  Large-scale active set box constrained optimization method with spectral projected gradients.pdf
+    │  │  │  NEW ACTIVE-SET FRANK-WOLFE VARIANTS FOR MINIMIZATION OVER THE SIMPLEX AND THE ?1-BALL.pdf
+    │  │  │  
+    │  │  ├─box bounds
+    │  │  │      A block active set algorithm for large-scalequadratic programming with box c.pdf.pdf
+    │  │  │      A feasible active set method for strictly convex quadratic problems with simple bounds .pdf
+    │  │  │      A NEW ACTIVE SET ALGORITHM FOR BOX CONSTRAINED.pdf
+    │  │  │      A Two-Stage Active-Set Algorithm for Bound-Constrained Optimization.pdf
+    │  │  │      An accurate active set conjugate gradient algorithm with project search for bound constrained optimization.pdf
+    │  │  │      An accurate active set newton algorithm for large scale bound constrained optimization.pdf
+    │  │  │      An active set algorithm for nonlinear optimizat with polyhedral constraints.pdf
+    │  │  │      An Active Set Modified Polak–Ribiére–Polyak for Large-Scale Nonlinear Bound Constrained opimization.pdf
+    │  │  │      An Active Set Newton Algorithm for Large-Scale Nonlinear Programs with Box Constraints.pdf
+    │  │  │      AN INFEASIBLE ACTIVE SET METHOD FOR QUADRATIC problem with simple bounds.pdf.pdf
+    │  │  │      newton method for large bound-constrained optimization.pdf
+    │  │  │      NEWTON'S METHOD FOR LARGE BOUND-CONSTRAINED OPTIMIZATION PROBLEMS.pdf
+    │  │  │      
+    │  │  ├─dual
+    │  │  │      a dual active set method  and Its Application to Linear Programmin.pdf
+    │  │  │      The Dual Active Set Algorithm and Its Application to Linear Programming.pdf
+    │  │  │      the dual active set algorithm.pdf
+    │  │  │      
+    │  │  └─primal dual
+    │  │          Primal and dual active-set methods for convex quadratic programming.pdf
+    │  │          Primal-Dual Active-Set Methods for Convex Quadratic.pdf
+    │  │          Primal-dual interior-point methods.pdf
+    │  │          The-Primal-Dual-Active-Set-Strategy-as-a-Semismooth-Newton-Method.pdf
+    │  │          
+    │  ├─gradient methods
+    │  │      Inexact Spectral Projected Gradient Methods on Convex Sets.pdf
+    │  │      Large-scale active set box constrained optimization method with spectral projected gradient.pdf
+    │  │      NONMONOTONE SPECTRAL PROJECTED GRADIENT METHODS.pdf
+    │  │      On the Application of the Spectral Projected Gradient Method in Image Segmen.pdf.pdf
+    │  │      On the steplength selection in gradient methods for unconstrained optimizati.pdf.pdf
+    │  │      On the steplength selection in gradient methods for unconstrained optimization.pdf
+    │  │      Spectral projected gradient method for generalized tensor eigenvalue complementarity problem.pdf
+    │  │      Spectral_Projected_Gradient_Methods_Review_and_Pective.pdf
+    │  │      Two spectral gradient projection methods for.pdf
+    │  │      
+    │  ├─interior point
+    │  │      A Comparison of Interior Point Methods and a Moreau-Yosida Based active set strategy for constrained optimal control problems.pdf
+    │  │      A globally and superlinearly convergent primal-dual interior point method for general constrained optomozation.pdf
+    │  │      An Interior Point Algorithm for Large Scale Nonlinear Programming.pdf
+    │  │      
+    │  ├─krylov
+    │  │      High-order_Krylov-Newton_and_fast_Krylov-Secant_M.pdf.pdf
+    │  │      
+    │  ├─newton method
+    │  │      newton methods for large scale linear inequality constrained minimization.pdf
+    │  │      
+    │  ├─penalty function
+    │  │      A class of continuously differntiable exact penalty function algorithms for nonliear programming problem.pdf
+    │  │      A Class of penalty functions for optimization problema with bound constraints.pdf
+    │  │      
+    │  └─trust region
+    │          trust region.pdf
+    │          
+    ├─book
+    │  ├─functon analysis
+    │  │      Functional Analysis with Applications.pdf.pdf
+    │  │      functional.pdf.pdf
+    │  │      实变函数与泛函分析基础第三版(程其襄) 课后答案.pdf
+    │  │      实变函数与泛函分析基础（中文第三版—程其襄等）.pdf
+    │  │      实变函数与泛函分析（上）夏道行.pdf
+    │  │      
+    │  ├─group
+    │  │      群论(韩其智).pdf
+    │  │      
+    │  ├─lcp
+    │  │      Finite-Dimensional Variational Inequalities and C(1).pdf.pdf
+    │  │      Finite-Dimensional Variational Inequalities and C.pdf.pdf
+    │  │      非线性互补理论与算法.pdf
+    │  │      
+    │  ├─manifold
+    │  │      Introduction to Smooth Manifolds.pdf.pdf
+    │  │      
+    │  ├─matrix theorem
+    │  │      matrix analysis(Roger A. Horn ).pdf
+    │  │      matrix anaylsis.pdf
+    │  │      matrix theory zhang.pdf
+    │  │      
+    │  ├─numrical
+    │  │  │  (2nd Edition) (Featured Titles for Numerical Analysis) Timothy Sauer-Numerical Analysis-Pearson (2011).pdf
+    │  │  │  683436 数值分析（原书第2版）_Timothy Sauer_机械工业出版社.pdf
+    │  │  │  back error .pdf
+    │  │  │  Lecture 3 Backward error analysis.pdf
+    │  │  │  
+    │  │  └─code
+    │  │      │  announcements.html
+    │  │      │  final.ps
+    │  │      │  index.html
+    │  │      │  intro.ps.gz
+    │  │      │  primer4_0_1.ps.gz
+    │  │      │  
+    │  │      ├─Matlab
+    │  │      │  │  bisect.m
+    │  │      │  │  chap4questions.tex
+    │  │      │  │  cpseudo.m
+    │  │      │  │  curvefit.m
+    │  │      │  │  curvefitPLOT.m
+    │  │      │  │  curvefitPLOTRD.m
+    │  │      │  │  eigscat.m
+    │  │      │  │  ex1.m
+    │  │      │  │  fmgv.m
+    │  │      │  │  fmgv1D.m
+    │  │      │  │  gecp.m
+    │  │      │  │  genp.m
+    │  │      │  │  index.html
+    │  │      │  │  inter.m
+    │  │      │  │  inter_in.m
+    │  │      │  │  LanczosFullReorthog.m
+    │  │      │  │  LanczosNoReorthog.m
+    │  │      │  │  LanczosSelectiveOrthog.m
+    │  │      │  │  makemgdemo.m
+    │  │      │  │  makemgdemo1D.m
+    │  │      │  │  massspring.m
+    │  │      │  │  mgv.m
+    │  │      │  │  mgv1D.m
+    │  │      │  │  mgvrhs.m
+    │  │      │  │  mgvrhs1D.m
+    │  │      │  │  MG_README.html
+    │  │      │  │  OrthogonalIteration.mat
+    │  │      │  │  pivot.m
+    │  │      │  │  polyplot.m
+    │  │      │  │  powerplot.m
+    │  │      │  │  qriter.m
+    │  │      │  │  qrplt.m
+    │  │      │  │  qrplt_error.m
+    │  │      │  │  QRStability.m
+    │  │      │  │  RayleighContour.m
+    │  │      │  │  rpseudo.m
+    │  │      │  │  svddemo2.m
+    │  │      │  │  svddemo3.m
+    │  │      │  │  testfmgv.m
+    │  │      │  │  testfmgv1D.m
+    │  │      │  │  tridiQR.m
+    │  │      │  │  trylubound.m
+    │  │      │  │  
+    │  │      │  └─Rayleigh
+    │  │      │          Ray3contour.m
+    │  │      │          Ray3contourOLD.m
+    │  │      │          RayleighContourOLD1.m
+    │  │      │          RayleighContourOLD2.m
+    │  │      │          
+    │  │      └─Text
+    │  │          └─HIdE
+    │  ├─optimization
+    │  │      bv_cvxbook.pdf.pdf
+    │  │      Convex Analysis and Minimization Algorithms I_ Fundamentals [Hiriart-Urruty & Lemaréchal 2011-05-26].pdf
+    │  │      Convex Analysis(Rockafellar).pdf
+    │  │      Convex Analysis(Rockafellar).pdf.pdf
+    │  │      Convex Theory bertsekas.pdf
+    │  │      Convex-Analysis2.pdf
+    │  │      numerical-optimization-solution-s-manual.pdf.pdf
+    │  │      数值最优化++第二版.pdf.pdf
+    │  │      
+    │  ├─real analysis
+    │  │      Lieb E., Loss M. Analysis - 分析学经典图书，普林斯顿大学教授名着.pdf
+    │  │      Measures, Integrals &amp;amp; Martingales solutions.pdf
+    │  │      Measures, integrals and martingales (1).pdf
+    │  │      Measures, integrals and martingales (1).pdf.pdf
+    │  │      number analysis paper.pdf
+    │  │      Real analysis (Elias M. Stein, Rami Shakarchi).pdf
+    │  │      Real Analysis Measure Theory, Integration, and Hilbert Spaces (2005).pdf
+    │  │      Real Analysis Measure Theory, Integration, and Hilbert Spaces (2005).pdf.pdf
+    │  │      [数学分析].[现代分析基础-第一卷](J.迪厄多内).pdf
+    │  │      实变函数与泛函分析基础（中文第三版—程其襄等）.pdf.pdf
+    │  │      陶哲轩实分析.pdf.pdf
+    │  │      
+    │  ├─tensor
+    │  │      tensor.pdf
+    │  │      [张量分析（第2版）].黄克智.扫描版.pdf
+    │  │      
+    │  └─topology
+    │          Topology (Dugundji).pdf.pdf
+    │          Topology.pdf.pdf
+    │          代数拓扑学Spanier (1).pdf.pdf
+    │          基础拓扑学讲义.pdf.pdf
+    │          
+    ├─cone
+    │      Extended Lorentz cones and mixed complementarity.pdf.pdf
+    │      Extended Lorentz cones and variational.pdf.pdf
+    │      Positive operators of Extended Lorentz cones.pdf.pdf
+    │      Second-order cone programming.pdf
+    │      
+    ├─exposed face
+    │      face method.pdf
+    │      
+    ├─fixed algorithm
+    │      A note on the convergence of linear stationary iterative process.pdf
+    │      the convergence of linear stationary process for solving singular unstructured systems of linear equations.pdf
+    │      
+    ├─latex
+    │      Latex book.pdf
+    │      LaTeX入门%5B刘海洋%5D.pdf
+    │      The Not So Short Introduction to L ATEX2ε.pdf
+    │      
+    ├─LCP
+    │      a block active set algorithm with spectral choice line search for EICP.pdf
+    │      A KRYLOV SUBSPACE METHOD FOR LARGE-SCALESECOND-ORDER CONE LINEAR COMPLEMENTARITY PROBLEM.pdf
+    │      A New Method for Solving Second-Order Cone Eigenvalue Complementarity Problems.pdf
+    │      A nonsmooth algorithm for cone-constrained eigenvalue problems.pdf.pdf
+    │      A recursive semi-smooth Newton method for linear complementarity problem.pdf
+    │      A recursive semi-smooth Newton method for linear complementarity problems(1).pdf
+    │      A recursive semi-smooth Newton method for linear complementarity problems.pdf
+    │      A VARIABLE DIMENSION ALGORITHM FOR THE LINEAR COMPLEMENTARITY PROBLE.pdf
+    │      Active Set Method for Second-Order Conic-Constrained.pdf.pdf
+    │      An active-set Levenberg–Marquardt method for degenerate nonlinear complementarity problem under local error bound conditons.pdf
+    │      Complementary eigenvalue of graphs.pdf(1).pdf
+    │      Complementary eigenvalue of graphs.pdf.pdf
+    │      Complemetarity eigenvalue problem for nonlinear matrix pencils.pdf
+    │      Inverse eigenvalue problems for linear complementarity systems.pdf.pdf
+    │      Local minima of quadratic forms on convex cones.pdf
+    │      On the cone eigenvalue complementarity problem for higher-order tensors.pdf.pdf
+    │      On the Quadratic Eigenvalue Complementarity Problem over a.pdf.pdf
+    │      On the solution of the symmetric eigenvalue complementarity problem by the spectral projected gradient algorithm.pdf
+    │      One comput all eigen over eigen.pdf(1).pdf
+    │      One comput all eigen over eigen.pdf.pdf
+    │      On_eigenvalues_induced_by_a_cone_constraint.pdf
+    │      On_eigenvalues_induced_by_a_cone_constraint.pdf.pdf
+    │      The Second-Order Cone Eigenvalue Complementarity Problem.pdf
+    │      The Second-Order Cone Quadratic Eigenvalue Complementarity.pdf
+    │      坠约束下的矩阵问题- theory and algorithms(1).pdf.pdf
+    │      锥和面.pdf.pdf
+    │      
+    ├─least square and inequalities
+    │  │  Radiosurgery treatment planning via nonlinear programming.pdf.pdf
+    │  │  
+    │  ├─least square
+    │  │  │  A FAST ACTIVE SET BLOCK COORDINATE DESCENT ALGORITHM FOR LEAST SQUARES.pdf
+    │  │  │  inner iterator krylov subspace methods for least squares problems.pdf
+    │  │  │  Least Square Methods for Solving Systems of Inequalities With Application to an Assignment Problem.pdf
+    │  │  │  LSQR an algorithm for linear equation and least squares problem.pdf
+    │  │  │  LSQR an algorithm for linear equation and least squares problem2.pdf
+    │  │  │  On computational aspects of bounded linear least squares problems.pdf
+    │  │  │  Robust least squares solution of linear inequalities.pdf
+    │  │  │  the state of the art of precondition of sparese least squre problem .pdf
+    │  │  │  
+    │  │  └─bib
+    │  │          A FAST ACTIVE SET BLOCK COORDINATE DESCENT ALGORITHM FOR LEAST SQUARES.txt
+    │  │          inner iterator krylov subspace methods for least squares problems.txt
+    │  │          Least Square Methods for Solving Systems of Inequalities With Application to an Assignment Problem.txt
+    │  │          LSQR an algorithm for linear equation and least squares problem.txt
+    │  │          On computational aspects of bounded linear least squares problems.txt
+    │  │          Robust least squares solution of linear inequalities.txt
+    │  │          the state of the art of precondition of sparese least squre problem .txt
+    │  │          
+    │  └─linear inequalities
+    │      │  A Framework for Optimal Correction of Inconsistent Linear Constraints.pdf
+    │      │  A hybrid algorithm for solving linear inequalitiesin a least squares sense.pdf
+    │      │  a interior point method for large scale nonnegative least squares problem.pdf
+    │      │  Accelerating the lee seung algorithm for nonnegative Matrix factorization.pdf
+    │      │  Best Approximate Solutions of Inconsistent Linear inequalies system.pdf
+    │      │  Best approximate solutions of inconsistent linear inequality systems.pdf
+    │      │  Correcting Inconsistency in Linear Inequalities by minmal change in the right hand side vector.pdf
+    │      │  Fast Newton-type Methods for the Least Squares Nonnegative Matrix approximation problem.pdf
+    │      │  Fast Projection-Based Methods for the Least Squares Nonnegative Matrix approximation problem.pdf
+    │      │  Han-type algorithms for inconsistent systems of linear.pdf
+    │      │  interior point gradient algorithm for totally nonnegative least squares problems in inequality sense .pdf
+    │      │  Iterative solution of inconsistent systems of linear inequalities.pdf
+    │      │  least squares solution of linear inequares.pdf
+    │      │  Least squares solutions of linear inequality systems a pedesttrain approach.pdf
+    │      │  Least Squares Solutions of Linear Inequality Systems.pdf
+    │      │  newton method for linear inequality systems.pdf
+    │      │  Nonnegative least squares solution in inequality sense via LCP reformulation.pdf
+    │      │  quadratically and superlinearly convergent algorithms for the solution of inequa constrained minimization problems.pdf
+    │      │  Random projections for the nonnegative least-squares problem .pdf
+    │      │  Smoothing methods for convex inequalities and linear complementarity problems.pdf
+    │      │  solving linear inequalities in a least squares sense.pdf
+    │      │  the inexact fixed matrix iterator for solvinglarge linear inequalities in a least squares sense.pdf
+    │      │  
+    │      └─bib
+    │              A Framework for Optimal Correction of Inconsistent Linear Constraints.txt
+    │              A hybrid algorithm for solving linear inequalitiesin a least squares sense.txt
+    │              Accelerating the lee seung algorithm for nonnegative Matrix factorization.txt
+    │              An interior-point gradient method for large-scale totally.txt
+    │              Best Approximate Solutions of Inconsistent Linear inequalies system.txt
+    │              Best approximate solutions of inconsistent linear inequality systems.txt
+    │              Correcting Inconsistency in Linear Inequalities by minmal change in the right hand side vector.txt
+    │              Fast Newton-type Methods for the Least Squares Nonnegative Matrix approximation problem.txt
+    │              Fast Projection-Based Methods for the Least Squares Nonnegative Matrix approximation problem.txt
+    │              Han-type algorithms for inconsistent systems of linear inequalities a unified approach.txt
+    │              interior point gradient algorithm for totally nonnegative least squares problems in inequality sense.txt
+    │              Iterative solution of inconsistent systems of linear inequalities.txt
+    │              least squares solution of linear inequares.txt
+    │              Least squares solutions of linear inequality systems a pedesttrain approach.txt
+    │              Least Squares Solutions of Linear Inequality Systems.txt
+    │              newton method for linear inequality systems.txt
+    │              Nonnegative least squares solution in inequality sense via LCP reformulation.txt
+    │              quadratically and superlinearly convergent algorithms for the solution of inequa constrained minimization problems.txt
+    │              Random projections for the nonnegative least-squares problem.txt
+    │              Smoothing methods for convex inequalities and linear complementarity problems.txt
+    │              solving linear inequalities in a least squares sense.txt
+    │              the inexact fixed matrix iterator for solvinglarge linear inequalities in a least squares sense.txt
+    │              
+    ├─lie algebra
+    │      A Mathematical Introduction to robetic manipulation.pdf
+    │      A tutorial on SE(3) transformation parameterizations.pdf
+    │      Lie groups and Lie algebras.pdf
+    │      Methods for the approximation of the matrix exponential in a Lie-alge braic setting.pdf
+    │      minimization on lie group and relate mainfolds.pdf
+    │      reading_group_lie.pdf
+    │      RELATIVE CAMERA POSE ESTIMATION METHOD USING OPTIMIZATION ON THE MANIFOLD.pdf
+    │      vlsm pose initialization via lie group and lie algebra optimization.pdf
+    │      
+    ├─linear program
+    │      A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems.pdf
+    │      A Newton Method for Linear Programming.pdf
+    │      A Newton Method for Linear Programming.pdf.pdf
+    │      A_General_Pricing_Scheme_for_the_Simplex_Method.pdf
+    │      Piecewise-Linear Pathways to the Optimal Solution Set in Linear Programming.pdf.pdf
+    │      
+    ├─matlab
+    │      Matrix%20Algorithms%20in%20MATLAB.pdf
+    │      
+    ├─nonsmooth newton
+    │      A nonsmooth version of Newton's method.pdf
+    │      smooth and semismooth function in constrained optimization.pdf
+    │      
+    ├─other
+    │  │  A finite newton method for classification problem.pdf
+    │  │  Error Analysis of Direct Methods of Matrix Inversion.pdf
+    │  │  Lanczos for generalized TR.pdf
+    │  │  On the stop critria for varified the nonlinear system or optimization algroithm.pdf
+    │  │  Rounding Errors in Algebraic Processes.pdf
+    │  │  从一元一次方程到伽罗瓦理论.pdf
+    │  │  
+    │  ├─chinese
+    │  │      一种求解线性二层规划的罚函数方法.pdf
+    │  │      一种解非负线性最小二乘问题的新算法.pdf
+    │  │      基于罚函数的最小二乘问题的求解算法.pdf
+    │  │      基于邻近算法ＰＤＡ.pdf
+    │  │      对实变函数的几点认识.pdf
+    │  │      对称正交矩阵反问题及其最佳逼近.pdf.pdf
+    │  │      求解线性不等式组的一类无约束极值方法.pdf
+    │  │      矩阵在闭凸锥上的最佳逼近.pdf.pdf
+    │  │      线性矩阵不等式(LMI)的 MATLAB求解.pdf
+    │  │      解线性方程组的共轭梯度法.pdf
+    │  │      高等数学（上）.pdf.pdf
+    │  │      
+    │  └─history
+    │          EARLY HISTORY OF GALOIS' THEORY.pdf
+    │          Lebesgue积分的产生及其影响_Jean_PierreKahane.pdf
+    │          
+    ├─propertise of function or algorithm
+    │      a continuity propertise of polyhedral mutilfunction.pdf
+    │      a lipschiztion character of convex polyhedral.pdf
+    │      definite position matrix.pdf
+    │      Generalized Hessian matrix and second-order optimality conditions for proble.pdf
+    │      global error bound for piecewise convex polynomials.pdf
+    │      In Praise of QR.pdf
+    │      matrix_rules.pdf
+    │      On the geometric interpretation of the nonnegative rank.pdf
+    │      Properties of determinants.pdf
+    │      secret of the matrix factorization supplementary document.pdf
+    │      The Optimal Approximation of Matrices on.pdf.pdf
+    │      vector matrix and tensor derivative.pdf
+    │      
+    └─quadratic
+            A block active set algorithm for large-scalequadratic programming with box c.pdf.pdf
+            A dual gradient-projection method for large-scale strictly convex quadratic problems.pdf
+            A feasible active set method for strictly convex quadratic problems with simple bounds.pdf
+            A feasible active set method for strictly.pdf
+            A Globally Convergent Primal-Dual Active-Set Framework for Large-Scale Convex Quadratic Optimization.pdf
+            a new algorithm for solving strictly convex quadratic program.pdf
+            A number stable dual method for solving strictly convex quadratic programs.pdf
+            a parametric active set algorithm for quadratic programming.pdf
+            active set methods for convex quadratic programming.pdf
+            Active-Set Methods for Quadratic Programming(1).pdf
+            Active-Set Methods for Quadratic Programming.pdf
+            Algorithms for Bound Constrained Quadratic Programming Problems.pdf
+            AN INFEASIBLE ACTIVE SET METHOD FOR QUADRATIC problem with simple bounds.pdf
+            An Infeasible Active Set Method with Combinatorial Line Search for Convex Quadratic Problems with Bound Constraints.pdf
+            An Infeasible Active Set Method with Combinatorial Line.pdf
+            Exact Complexity Certification of Active-Set methods for quadratic programming.pdf
+            Primal and dual active-set methods for convex quadratic programming.pdf
+            Primal-Dual Active-Set Methods for Convex Quadratic.pdf
+            
