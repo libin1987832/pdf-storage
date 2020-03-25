@@ -283,71 +283,44 @@ C:.
     ©¦  ©¦  Radiosurgery treatment planning via nonlinear programming.pdf.pdf
     ©¦  ©¦  
     ©¦  ©À©¤least square
-    ©¦  ©¦  ©¦  A FAST ACTIVE SET BLOCK COORDINATE DESCENT ALGORITHM FOR LEAST SQUARES.pdf
-    ©¦  ©¦  ©¦  inner iterator krylov subspace methods for least squares problems.pdf
-    ©¦  ©¦  ©¦  Least Square Methods for Solving Systems of Inequalities With Application to an Assignment Problem.pdf
-    ©¦  ©¦  ©¦  LSQR an algorithm for linear equation and least squares problem.pdf
-    ©¦  ©¦  ©¦  LSQR an algorithm for linear equation and least squares problem2.pdf
-    ©¦  ©¦  ©¦  On computational aspects of bounded linear least squares problems.pdf
-    ©¦  ©¦  ©¦  Robust least squares solution of linear inequalities.pdf
-    ©¦  ©¦  ©¦  the state of the art of precondition of sparese least squre problem .pdf
-    ©¦  ©¦  ©¦  
-    ©¦  ©¦  ©¸©¤bib
-    ©¦  ©¦          A FAST ACTIVE SET BLOCK COORDINATE DESCENT ALGORITHM FOR LEAST SQUARES.txt
-    ©¦  ©¦          inner iterator krylov subspace methods for least squares problems.txt
-    ©¦  ©¦          Least Square Methods for Solving Systems of Inequalities With Application to an Assignment Problem.txt
-    ©¦  ©¦          LSQR an algorithm for linear equation and least squares problem.txt
-    ©¦  ©¦          On computational aspects of bounded linear least squares problems.txt
-    ©¦  ©¦          Robust least squares solution of linear inequalities.txt
-    ©¦  ©¦          the state of the art of precondition of sparese least squre problem .txt
-    ©¦  ©¦          
+    ©¦  ©¦      A FAST ACTIVE SET BLOCK COORDINATE DESCENT ALGORITHM FOR LEAST SQUARES.pdf
+    ©¦  ©¦      inner iterator krylov subspace methods for least squares problems.pdf
+    ©¦  ©¦      Least Square Methods for Solving Systems of Inequalities With Application to an Assignment Problem.pdf
+    ©¦  ©¦      LSQR an algorithm for linear equation and least squares problem.pdf
+    ©¦  ©¦      LSQR an algorithm for linear equation and least squares problem2.pdf
+    ©¦  ©¦      On computational aspects of bounded linear least squares problems.pdf
+    ©¦  ©¦      Robust least squares solution of linear inequalities.pdf
+    ©¦  ©¦      the state of the art of precondition of sparese least squre problem .pdf
+    ©¦  ©¦      
     ©¦  ©¸©¤linear inequalities
-    ©¦      ©¦  A Framework for Optimal Correction of Inconsistent Linear Constraints.pdf
     ©¦      ©¦  A hybrid algorithm for solving linear inequalitiesin a least squares sense.pdf
-    ©¦      ©¦  a interior point method for large scale nonnegative least squares problem.pdf
-    ©¦      ©¦  Accelerating the lee seung algorithm for nonnegative Matrix factorization.pdf
-    ©¦      ©¦  Best Approximate Solutions of Inconsistent Linear inequalies system.pdf
-    ©¦      ©¦  Best approximate solutions of inconsistent linear inequality systems.pdf
     ©¦      ©¦  Correcting Inconsistency in Linear Inequalities by minmal change in the right hand side vector.pdf
-    ©¦      ©¦  Fast Newton-type Methods for the Least Squares Nonnegative Matrix approximation problem.pdf
-    ©¦      ©¦  Fast Projection-Based Methods for the Least Squares Nonnegative Matrix approximation problem.pdf
     ©¦      ©¦  Han-type algorithms for inconsistent systems of linear.pdf
-    ©¦      ©¦  interior point gradient algorithm for totally nonnegative least squares problems in inequality sense .pdf
     ©¦      ©¦  Iterative solution of inconsistent systems of linear inequalities.pdf
     ©¦      ©¦  least squares solution of linear inequares.pdf
     ©¦      ©¦  Least squares solutions of linear inequality systems a pedesttrain approach.pdf
     ©¦      ©¦  Least Squares Solutions of Linear Inequality Systems.pdf
     ©¦      ©¦  newton method for linear inequality systems.pdf
-    ©¦      ©¦  Nonnegative least squares solution in inequality sense via LCP reformulation.pdf
-    ©¦      ©¦  quadratically and superlinearly convergent algorithms for the solution of inequa constrained minimization problems.pdf
-    ©¦      ©¦  Random projections for the nonnegative least-squares problem .pdf
     ©¦      ©¦  Smoothing methods for convex inequalities and linear complementarity problems.pdf
     ©¦      ©¦  solving linear inequalities in a least squares sense.pdf
     ©¦      ©¦  the inexact fixed matrix iterator for solvinglarge linear inequalities in a least squares sense.pdf
     ©¦      ©¦  
-    ©¦      ©¸©¤bib
-    ©¦              A Framework for Optimal Correction of Inconsistent Linear Constraints.txt
-    ©¦              A hybrid algorithm for solving linear inequalitiesin a least squares sense.txt
-    ©¦              Accelerating the lee seung algorithm for nonnegative Matrix factorization.txt
-    ©¦              An interior-point gradient method for large-scale totally.txt
-    ©¦              Best Approximate Solutions of Inconsistent Linear inequalies system.txt
-    ©¦              Best approximate solutions of inconsistent linear inequality systems.txt
-    ©¦              Correcting Inconsistency in Linear Inequalities by minmal change in the right hand side vector.txt
-    ©¦              Fast Newton-type Methods for the Least Squares Nonnegative Matrix approximation problem.txt
-    ©¦              Fast Projection-Based Methods for the Least Squares Nonnegative Matrix approximation problem.txt
-    ©¦              Han-type algorithms for inconsistent systems of linear inequalities a unified approach.txt
-    ©¦              interior point gradient algorithm for totally nonnegative least squares problems in inequality sense.txt
-    ©¦              Iterative solution of inconsistent systems of linear inequalities.txt
-    ©¦              least squares solution of linear inequares.txt
-    ©¦              Least squares solutions of linear inequality systems a pedesttrain approach.txt
-    ©¦              Least Squares Solutions of Linear Inequality Systems.txt
-    ©¦              newton method for linear inequality systems.txt
-    ©¦              Nonnegative least squares solution in inequality sense via LCP reformulation.txt
-    ©¦              quadratically and superlinearly convergent algorithms for the solution of inequa constrained minimization problems.txt
-    ©¦              Random projections for the nonnegative least-squares problem.txt
-    ©¦              Smoothing methods for convex inequalities and linear complementarity problems.txt
-    ©¦              solving linear inequalities in a least squares sense.txt
-    ©¦              the inexact fixed matrix iterator for solvinglarge linear inequalities in a least squares sense.txt
+    ©¦      ©À©¤nonnegative least squares problem
+    ©¦      ©¦      a interior point method for large scale nonnegative least squares problem.pdf
+    ©¦      ©¦      Random projections for the nonnegative least-squares problem .pdf
+    ©¦      ©¦      
+    ©¦      ©À©¤nonnegative matrix factorization
+    ©¦      ©¦      Accelerating the lee seung algorithm for nonnegative Matrix factorization.pdf
+    ©¦      ©¦      Fast Newton-type Methods for the Least Squares Nonnegative Matrix approximation problem.pdf
+    ©¦      ©¦      Fast Projection-Based Methods for the Least Squares Nonnegative Matrix approximation problem.pdf
+    ©¦      ©¦      
+    ©¦      ©À©¤other
+    ©¦      ©¦      A Framework for Optimal Correction of Inconsistent Linear Constraints.pdf
+    ©¦      ©¦      Best Approximate Solutions of Inconsistent Linear inequalies system.pdf
+    ©¦      ©¦      
+    ©¦      ©¸©¤totally nonnegative least squares problems
+    ©¦              interior point gradient algorithm for totally nonnegative least squares problems in inequality sense .pdf
+    ©¦              Nonnegative least squares solution in inequality sense via LCP reformulation.pdf
     ©¦              
     ©À©¤lie algebra
     ©¦      A Mathematical Introduction to robetic manipulation.pdf
