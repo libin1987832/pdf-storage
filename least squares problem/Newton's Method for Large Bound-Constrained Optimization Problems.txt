@@ -1,0 +1,28 @@
+
+
+
+
+
+
+@article{doi:10.1137/S1052623498345075,
+author = {Lin, Chih-Jen and Moré, Jorge J.},
+title = {Newton's Method for Large Bound-Constrained Optimization Problems},
+journal = {SIAM Journal on Optimization},
+volume = {9},
+number = {4},
+pages = {1100-1127},
+year = {1999},
+doi = {10.1137/S1052623498345075},
+
+URL = { 
+        https://doi.org/10.1137/S1052623498345075
+    
+},
+eprint = { 
+        https://doi.org/10.1137/S1052623498345075
+    
+}
+
+}
+
+
