@@ -1,6 +1,0 @@
-@techreport{spoonamore1992least,
-  title={Least square methods for solving systems of inequalities with application to an assignment problem},
-  author={Spoonamore, Janet H},
-  year={1992},
-  institution={CONSTRUCTION ENGINEERING RESEARCH LAB (ARMY) CHAMPAIGN IL}
-}

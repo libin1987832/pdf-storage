@@ -1,4 +1,0 @@
-@article{deleast,
-  title={Least Squares Solutions of Linear Inequality Systems},
-  author={de Leeuw, Jan}
-}

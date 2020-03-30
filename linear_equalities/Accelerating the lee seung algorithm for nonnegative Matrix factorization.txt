@@ -1,6 +1,0 @@
-@article{gonzales2005accelerating,
-  title={Accelerating the Lee-Seung algorithm for non-negative matrix factorization, Dept},
-  author={Gonzales, EF and Zhang, Y},
-  journal={Comput. Appl. Math., Rice Univ., Houston, TX, Tech. Rep},
-  year={2005}
-}

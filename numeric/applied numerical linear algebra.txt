@@ -1,8 +1,0 @@
-@article{WatkinsApplied,
-  title={Applied Numerical Linear Algebraby James W. Demmel},
-  author={Watkins, Review By: David S.},
-  journal={Mathematics of Computation},
-  volume={67},
-  number={224},
-  pages={1742-1744},
-}

@@ -1,8 +1,0 @@
-@inproceedings{kim2007fast,
-  title={Fast Newton-type methods for the least squares nonnegative matrix approximation problem},
-  author={Kim, Dongmin and Sra, Suvrit and Dhillon, Inderjit S},
-  booktitle={Proceedings of the 2007 SIAM international conference on data mining},
-  pages={343--354},
-  year={2007},
-  organization={SIAM}
-}

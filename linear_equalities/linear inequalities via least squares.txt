@@ -1,8 +1,0 @@
-@article{ubi2013linear,
-  title={Linear inequalities via least squares.},
-  author={{\"U}bi, Evald},
-  journal={Proceedings of the Estonian Academy of Sciences},
-  volume={62},
-  number={4},
-  year={2013}
-}

@@ -1,8 +1,0 @@
-@article{DaxA,
-  title={A hybrid algorithm for solving linear inequalities in a least squares sense},
-  author={Dax, Achiya},
-  journal={Numerical Algorithms},
-  volume={50},
-  number={2},
-  pages={97-114},
-}

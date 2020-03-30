@@ -1,5 +1,0 @@
-@book{Timothy2012Numerical,
-  title={Numerical Analysis},
-  author={Timothy Sauer},
-  year={2012},
-}
